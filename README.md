@@ -36,6 +36,8 @@ python3 keylogger.py
 ✅ Output:
 All keys will be logged to a file named key_log.txt in the same directory.
 
+📸 Sample Output (key_log.txt) 
+
 H
 e
 l
@@ -57,5 +59,4 @@ Key.enter
 Sahil Khan
 Cybersecurity Intern @ Prodigy InfoTech
 GitHub: sudoxsahil
-```bash
-pip install pynput
+
